@@ -1,0 +1,12 @@
+{
+  "name": "socket",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@repo/db": "*"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
