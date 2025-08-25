@@ -50,10 +50,11 @@
   --color-gray-1: hsla(200, 27, 96, 1);
   --color-head-black: hsla(220, 6, 10, 1);
   --color-gray-2: hsla(200, 27, 96, 1);
-  --color--gray-outline-stroke: hsla(206, 23, 88, 1);
+  --color-gray-outline-stroke: hsla(206, 23, 88, 1);
   --color-black-txt: hsla(220, 6, 10, 1);
   --color-base-light-gray: hsla(0, 0, 96, 1);
   --color-link: hsla(205, 100, 50, 1);
+  --color-success: #1ad598;
 }
 
 :root {
